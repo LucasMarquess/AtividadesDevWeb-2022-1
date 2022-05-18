@@ -1,0 +1,8 @@
+Lista de manipulação de DOM
+Graduando: Lucas Marques Fonseca - 2018205014
+
+1 -  
+a) Está apontando para a tag BODY;
+b) Pois na linha 9 está sendo chamada a propriedade outroElemento.nodeValue, que retorna o valor do nó, como a tag h1 é um nó de elemento, temos o retorno Null;
+c) O primeiro filho da tag h1, que é o seu texto “Teste de Título”.
+
